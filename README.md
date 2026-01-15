@@ -1,5 +1,5 @@
 # CUSTOMER360-ANALYSIS
-**Technical Skills: SQL, Power BI, DAX Code, OLTP to OLAP, RFM, Segmentation, Campaign Development.
+•Technical Skills: SQL, Power BI, DAX Code, OLTP to OLAP, RFM, Segmentation, Campaign Development.
 
 •Using SQL to calculate the R (Recency), F (Frequency), and M (Monetary) metrics. Next, apply the IQR method to determine the interquartile range for R, F, and M. Afterward, combine R, F, and M into a three-digit composite score.
 
